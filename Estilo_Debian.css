@@ -1,0 +1,105 @@
+.Debi{
+    background-color: whitesmoke;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+.container{
+    color: blue;
+}
+#Body{
+    background-color: gray;
+
+}
+.Email{
+    margin-left: 54px;
+}
+#nameemail{
+    color: black;
+}
+#namesenha{
+    color: black;
+}
+#namechecagem{
+    color: black;
+}
+.Nomes{
+    margin-left: 54px;
+}
+.telefone{
+    margin-left: 42px;
+}
+#prontuario{
+    color: black;
+}
+#jumbo{
+    border: 2px solid black;
+    border-radius: 5px;
+    font-style: oblique;
+    margin-top: 70px;
+}
+.debian{
+    font-size: 50px;
+}
+#logo{
+    width: 250px;
+    height: 150px;
+}
+#Oq{
+    margin-top: 80px;
+}
+#h2{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+#h3{
+    margin-top: 80px;
+}
+#h4{
+    margin-top: 80px;
+}
+#h5{
+    margin-top: 80px;
+}
+#formulario{
+    margin-top: 80px;
+}
+#hr1{
+    margin-top: 80px;
+    margin-bottom: 80;
+}
+#hr2{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+#hr3{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+#hr4{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+#hr5{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+#hr6{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+#formulario{
+    background-color: whitesmoke;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+@media screen and (max-width:590px){
+    .telefone{
+        margin-left: 1.4cm;
+    }
+    #checkbox{
+        margin-left: 53px;
+    }
+}
